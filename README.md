@@ -1,16 +1,32 @@
-## Hi there 👋
+# Bio
+hi 
+I majored in physics and am interested in deep learning.
+I am currently receiving training called ssafy.
 
-<!--
-**B-Singularity/B-Singularity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Among deep learning, I am interested in music deep learning and model compression.
 
-Here are some ideas to get you started:
+I'm also trying to learn mlops and apply it to actual services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Interest
+- web backend
+- model compression
+- NAS(Neural Architecture Search)
+- NAG(Neural Architecture Generation)
+- Bayesian optimization, BNN(Bayesian Neural Network)
+- MLops
+# Social
+[Velog](https://velog.io/@sour_grape)
+
+[Github](https://github.com/B-Singularity)
+# Education
+- BS in Physics, Mar 2016 - Aug 2023
+
+
+# Experience
+
+# Project
+[Vocal-Classification-Using-CNN](https://github.com/B-Singularity/Vocal-Classification-Using-CNN)
+
+# contact
+email: skil1489@naver.com
