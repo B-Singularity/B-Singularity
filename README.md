@@ -1,4 +1,4 @@
-
+![pepe](https://github.com/B-Singularity/B-Singularity/blob/main/profile%20img.jpeg)
 
 
 # Bio
